@@ -1,0 +1,24 @@
+# Welcome to Jekyll and Thank you for using Renge as your theme.
+
+# Please install jekyll-paginate before build it.
+# sudo gem install jekyll-paginate in linux or MacOS.
+# gem install jekyll-paginate in Windows.
+
+# Renge supports categories and tags, which are defined in each of your posts.
+# Also, You can add or removed links in /_includes/sider.html .
+# please change the belowing settings to your own.
+
+# Site settings
+title: colin zhang blog
+email: colinrizzo@gmail.com
+description: 技术沉淀，经验分享
+baseurl: "/_posts" # the subpath of your site, e.g. /blog
+url: "http://edgecode.ink/" # the base hostname & protocol for your site
+#twitter_username:
+github_username:  colin88
+
+# Build settings
+markdown: kramdown
+paginate: 10
+gems: [jekyll-paginate]
+paginate_path: "/page/:num"
