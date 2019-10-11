@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll and Renge!"
+title:  "Welcome to Colin's Blog!"
 date:   2016-06-16 13:08:09 -0700
 categories: jekyll update Renge
 tags: jekyll Renge
