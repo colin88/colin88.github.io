@@ -12,7 +12,7 @@
 title: colin zhang blog
 email: colinrizzo@gmail.com
 description: 技术沉淀，经验分享
-baseurl: "/_posts" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://edgecode.ink/" # the base hostname & protocol for your site
 #twitter_username:
 github_username:  colin88
